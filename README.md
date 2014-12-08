@@ -15,3 +15,7 @@ and it will be listed in the phpstorm sitting
 
 ![Alt text](https://github.com/chechnyan/JetBrains-PhpStorm-Afterglow/blob/master/PHP.PNG)
 ![Alt text](https://github.com/chechnyan/JetBrains-PhpStorm-Afterglow/blob/master/html.PNG)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chechnyan/jetbrains-phpstorm-afterglow/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
